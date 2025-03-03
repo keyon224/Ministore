@@ -232,10 +232,6 @@
     display: flex;
     justify-content: space-between;
 }
-.card-body{
-    display: flex;
-    justify-content: space-between;
-}
 .button{
     border: none;
     background-color: blue;

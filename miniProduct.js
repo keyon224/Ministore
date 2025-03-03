@@ -26,14 +26,10 @@ for (let i = 0; i < products.length; i++){
     <div class="card" style="width: 18rem;margin:10px">
         <img src="${products[i].Image}" class="card-img-top" alt="${products[i].Image}">
         <div class="card-body">
-            <div>
-                <h5 class="card-title">${products[i].name}</h5>
-            </div>
-            <div>
-                <p class="card-text1">$${products[i].price}</p>
-            </div><br>
+            <h5 class="card-title">${products[i].name}</h5>
+            <p class="card-text1">$${products[i].price}</p>
+            <button class="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to cart</button>
         </div>
-                <button class="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to cart</button>
       </div>
     `
 }

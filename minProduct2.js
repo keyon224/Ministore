@@ -28,8 +28,8 @@ for (let i = 0; i < product.length; i++){
         <div class="card-body">
           <h5 class="card-title">${product[i].name}</h5>
           <p class="card-text">$${product[i].price}</p>
+          <button class="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to cart</button>
         </div>
-            <button class="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Add to cart</button>
       </div>
     `
 }
