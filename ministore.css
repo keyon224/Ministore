@@ -1,0 +1,254 @@
+
+.navbar-brand{
+    height: 70px;
+    font-size: 50px;
+}
+.navbar-collapse{
+    margin-left: 550px;
+}
+.inline{
+    display: inline;
+    font-size: 60px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    height: 600px;
+}
+.carousel-inner{
+    background-color: azure;
+}
+.text{
+    margin-top: 180px;
+}
+.shop{
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 50px;
+}
+.imagesize{
+    height: 600px;
+}
+#box{
+    /* color: black;
+    width: 300px; */
+    margin-top: 70px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+#box1{
+    padding: 10px;
+    border: 1px solid none;
+    width: 300px; 
+}
+.image2{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(228, 237, 227);
+}
+.inside{
+    width: 500px;
+    background-image: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.text2{
+    margin-top: 150px;
+}
+.sale{
+    font-size: 70px;
+}
+.post{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+.posts{
+    margin-left: 100px;
+}
+.read{
+    margin-right: 100px;
+    color: black;
+}
+.gadget{
+    width: 400px;
+}
+.gadgets{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+}
+#gadgets{
+    margin-left: 70px;
+}
+#gad{
+    margin-right: 70px;
+}
+.p{
+    margin-left: 80px;
+}
+.inner{
+    text-align: center;
+    height: 400px;
+    padding-top: 100px;  
+    font-size: 30px;
+    color: dimgray;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: darkgray;
+    opacity: 5;
+}
+.sub{
+    display: flex;
+    border: solid 30px black;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 20px;
+    background-color: black;
+}
+.now{
+    color: white;
+    background-color: black;
+}
+.fom{
+    color: white;
+    background-color: black;
+    width: 500px;
+}
+#insta{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+}
+.our{
+    width: 200px;
+    height: 250px;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+#onne{
+    margin-left: 150px;
+}
+#nne{
+    margin-right: 150px;
+}
+.size{
+    width: 20px;
+    height: 20px;
+}
+.ai{
+    text-decoration: none;
+    color: black;
+}
+.quicklink{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.store{
+    margin-left: 70px;
+}
+.contact{
+    margin-right: 70px;
+}
+#fint{
+    color: gray;
+}
+.vertical-line{
+    border: 1px solid black;
+    height: 5px;
+}
+.line{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+#myform{
+    border: solid 10px gray;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: gray;
+}
+#form{
+    border: solid 5px gray;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.mb-3{
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: blue;
+}
+#emailHelp{
+    color: blue
+}
+#mb-3{
+    margin-left: 20px;
+    width: 100px;
+    margin-bottom: 30px;
+}
+#parent{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-left: 50PX;
+    margin-right: 50PX;
+    margin-bottom: 90px;
+    text-align: center;
+}
+#contain{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-left: 50PX;
+    margin-right: 50PX;
+    margin-bottom: 90px;
+    text-align: center;
+}
+#img{
+    width: 100px;
+    
+}
+#carth{
+    display: flex;
+}
+.signup{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    border: none;
+    background-color: blue;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+.card-text{
+    margin-left: 50px;
+    color: blue;
+}
+.card-text1{
+    margin-left: 120px;
+    color: blue;
+}

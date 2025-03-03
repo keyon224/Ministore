@@ -1,0 +1,26 @@
+#contain{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 20px;
+    width: 200px;
+    margin: auto;
+}
+#image{
+    width: 200px;
+    height: 200px;
+}
+#parent{
+    display: flex;
+}
+img{
+    width: 100px;
+}
+#width{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
